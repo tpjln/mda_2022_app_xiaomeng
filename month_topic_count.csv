@@ -1,0 +1,652 @@
+,Time,dominant_topic,num of speeches,topic_theme
+0,2009-01-01,29,1,Economy/Education/Job/Family
+1,2009-01-01,2,1,War/Conflict/Religion/Nation
+2,2009-01-01,5,1,Policy/Govenment/Foreign Affairs
+3,2009-01-01,26,0,Insurance/Health
+4,2009-01-01,19,0,Iran/Sanction
+5,2009-01-01,13,0,Veteran Affairs
+6,2009-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+7,2009-02-01,29,4,Economy/Education/Job/Family
+8,2009-02-01,2,2,War/Conflict/Religion/Nation
+9,2009-02-01,5,0,Policy/Govenment/Foreign Affairs
+10,2009-02-01,26,0,Insurance/Health
+11,2009-02-01,19,0,Iran/Sanction
+12,2009-02-01,13,0,Veteran Affairs
+13,2009-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+14,2009-03-01,29,1,Economy/Education/Job/Family
+15,2009-03-01,2,0,War/Conflict/Religion/Nation
+16,2009-03-01,5,0,Policy/Govenment/Foreign Affairs
+17,2009-03-01,26,0,Insurance/Health
+18,2009-03-01,19,0,Iran/Sanction
+19,2009-03-01,13,0,Veteran Affairs
+20,2009-03-01,10,0,Oil/Gas/Energy/Viecle/Climate
+21,2009-04-01,29,1,Economy/Education/Job/Family
+22,2009-04-01,2,5,War/Conflict/Religion/Nation
+23,2009-04-01,5,2,Policy/Govenment/Foreign Affairs
+24,2009-04-01,26,0,Insurance/Health
+25,2009-04-01,19,0,Iran/Sanction
+26,2009-04-01,13,0,Veteran Affairs
+27,2009-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+28,2009-05-01,29,4,Economy/Education/Job/Family
+29,2009-05-01,2,1,War/Conflict/Religion/Nation
+30,2009-05-01,5,1,Policy/Govenment/Foreign Affairs
+31,2009-05-01,26,0,Insurance/Health
+32,2009-05-01,19,0,Iran/Sanction
+33,2009-05-01,13,0,Veteran Affairs
+34,2009-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+35,2009-06-01,29,2,Economy/Education/Job/Family
+36,2009-06-01,2,4,War/Conflict/Religion/Nation
+37,2009-06-01,5,0,Policy/Govenment/Foreign Affairs
+38,2009-06-01,26,0,Insurance/Health
+39,2009-06-01,19,0,Iran/Sanction
+40,2009-06-01,13,0,Veteran Affairs
+41,2009-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+42,2009-07-01,29,1,Economy/Education/Job/Family
+43,2009-07-01,2,2,War/Conflict/Religion/Nation
+44,2009-07-01,5,0,Policy/Govenment/Foreign Affairs
+45,2009-07-01,26,1,Insurance/Health
+46,2009-07-01,19,0,Iran/Sanction
+47,2009-07-01,13,0,Veteran Affairs
+48,2009-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+49,2009-08-01,29,1,Economy/Education/Job/Family
+50,2009-08-01,2,0,War/Conflict/Religion/Nation
+51,2009-08-01,5,0,Policy/Govenment/Foreign Affairs
+52,2009-08-01,26,0,Insurance/Health
+53,2009-08-01,19,0,Iran/Sanction
+54,2009-08-01,13,0,Veteran Affairs
+55,2009-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+56,2009-09-01,29,3,Economy/Education/Job/Family
+57,2009-09-01,2,2,War/Conflict/Religion/Nation
+58,2009-09-01,5,0,Policy/Govenment/Foreign Affairs
+59,2009-09-01,26,0,Insurance/Health
+60,2009-09-01,19,0,Iran/Sanction
+61,2009-09-01,13,0,Veteran Affairs
+62,2009-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+63,2009-11-01,29,0,Economy/Education/Job/Family
+64,2009-11-01,2,1,War/Conflict/Religion/Nation
+65,2009-11-01,5,1,Policy/Govenment/Foreign Affairs
+66,2009-11-01,26,0,Insurance/Health
+67,2009-11-01,19,0,Iran/Sanction
+68,2009-11-01,13,0,Veteran Affairs
+69,2009-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+70,2009-12-01,29,1,Economy/Education/Job/Family
+71,2009-12-01,2,4,War/Conflict/Religion/Nation
+72,2009-12-01,5,1,Policy/Govenment/Foreign Affairs
+73,2009-12-01,26,0,Insurance/Health
+74,2009-12-01,19,0,Iran/Sanction
+75,2009-12-01,13,0,Veteran Affairs
+76,2009-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+77,2010-01-01,29,5,Economy/Education/Job/Family
+78,2010-01-01,2,2,War/Conflict/Religion/Nation
+79,2010-01-01,5,1,Policy/Govenment/Foreign Affairs
+80,2010-01-01,26,0,Insurance/Health
+81,2010-01-01,19,0,Iran/Sanction
+82,2010-01-01,13,0,Veteran Affairs
+83,2010-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+84,2010-02-01,29,3,Economy/Education/Job/Family
+85,2010-02-01,2,1,War/Conflict/Religion/Nation
+86,2010-02-01,5,0,Policy/Govenment/Foreign Affairs
+87,2010-02-01,26,0,Insurance/Health
+88,2010-02-01,19,0,Iran/Sanction
+89,2010-02-01,13,0,Veteran Affairs
+90,2010-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+91,2010-03-01,29,5,Economy/Education/Job/Family
+92,2010-03-01,2,1,War/Conflict/Religion/Nation
+93,2010-03-01,5,0,Policy/Govenment/Foreign Affairs
+94,2010-03-01,26,1,Insurance/Health
+95,2010-03-01,19,0,Iran/Sanction
+96,2010-03-01,13,0,Veteran Affairs
+97,2010-03-01,10,1,Oil/Gas/Energy/Viecle/Climate
+98,2010-04-01,29,2,Economy/Education/Job/Family
+99,2010-04-01,2,1,War/Conflict/Religion/Nation
+100,2010-04-01,5,1,Policy/Govenment/Foreign Affairs
+101,2010-04-01,26,0,Insurance/Health
+102,2010-04-01,19,1,Iran/Sanction
+103,2010-04-01,13,0,Veteran Affairs
+104,2010-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+105,2010-05-01,29,4,Economy/Education/Job/Family
+106,2010-05-01,2,1,War/Conflict/Religion/Nation
+107,2010-05-01,5,0,Policy/Govenment/Foreign Affairs
+108,2010-05-01,26,0,Insurance/Health
+109,2010-05-01,19,0,Iran/Sanction
+110,2010-05-01,13,0,Veteran Affairs
+111,2010-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+112,2010-06-01,29,4,Economy/Education/Job/Family
+113,2010-06-01,2,2,War/Conflict/Religion/Nation
+114,2010-06-01,5,0,Policy/Govenment/Foreign Affairs
+115,2010-06-01,26,0,Insurance/Health
+116,2010-06-01,19,1,Iran/Sanction
+117,2010-06-01,13,0,Veteran Affairs
+118,2010-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+119,2010-07-01,29,4,Economy/Education/Job/Family
+120,2010-07-01,2,0,War/Conflict/Religion/Nation
+121,2010-07-01,5,0,Policy/Govenment/Foreign Affairs
+122,2010-07-01,26,0,Insurance/Health
+123,2010-07-01,19,0,Iran/Sanction
+124,2010-07-01,13,0,Veteran Affairs
+125,2010-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+126,2010-08-01,29,0,Economy/Education/Job/Family
+127,2010-08-01,2,2,War/Conflict/Religion/Nation
+128,2010-08-01,5,0,Policy/Govenment/Foreign Affairs
+129,2010-08-01,26,0,Insurance/Health
+130,2010-08-01,19,0,Iran/Sanction
+131,2010-08-01,13,1,Veteran Affairs
+132,2010-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+133,2010-09-01,29,0,Economy/Education/Job/Family
+134,2010-09-01,2,2,War/Conflict/Religion/Nation
+135,2010-09-01,5,0,Policy/Govenment/Foreign Affairs
+136,2010-09-01,26,0,Insurance/Health
+137,2010-09-01,19,0,Iran/Sanction
+138,2010-09-01,13,0,Veteran Affairs
+139,2010-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+140,2010-11-01,29,2,Economy/Education/Job/Family
+141,2010-11-01,2,3,War/Conflict/Religion/Nation
+142,2010-11-01,5,0,Policy/Govenment/Foreign Affairs
+143,2010-11-01,26,0,Insurance/Health
+144,2010-11-01,19,0,Iran/Sanction
+145,2010-11-01,13,0,Veteran Affairs
+146,2010-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+147,2010-12-01,29,1,Economy/Education/Job/Family
+148,2010-12-01,2,1,War/Conflict/Religion/Nation
+149,2010-12-01,5,0,Policy/Govenment/Foreign Affairs
+150,2010-12-01,26,0,Insurance/Health
+151,2010-12-01,19,0,Iran/Sanction
+152,2010-12-01,13,0,Veteran Affairs
+153,2010-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+154,2011-01-01,29,2,Economy/Education/Job/Family
+155,2011-01-01,2,0,War/Conflict/Religion/Nation
+156,2011-01-01,5,0,Policy/Govenment/Foreign Affairs
+157,2011-01-01,26,0,Insurance/Health
+158,2011-01-01,19,0,Iran/Sanction
+159,2011-01-01,13,0,Veteran Affairs
+160,2011-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+161,2011-02-01,29,2,Economy/Education/Job/Family
+162,2011-02-01,2,2,War/Conflict/Religion/Nation
+163,2011-02-01,5,1,Policy/Govenment/Foreign Affairs
+164,2011-02-01,26,0,Insurance/Health
+165,2011-02-01,19,0,Iran/Sanction
+166,2011-02-01,13,0,Veteran Affairs
+167,2011-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+168,2011-03-01,29,0,Economy/Education/Job/Family
+169,2011-03-01,2,5,War/Conflict/Religion/Nation
+170,2011-03-01,5,0,Policy/Govenment/Foreign Affairs
+171,2011-03-01,26,0,Insurance/Health
+172,2011-03-01,19,0,Iran/Sanction
+173,2011-03-01,13,0,Veteran Affairs
+174,2011-03-01,10,1,Oil/Gas/Energy/Viecle/Climate
+175,2011-04-01,29,6,Economy/Education/Job/Family
+176,2011-04-01,2,0,War/Conflict/Religion/Nation
+177,2011-04-01,5,0,Policy/Govenment/Foreign Affairs
+178,2011-04-01,26,0,Insurance/Health
+179,2011-04-01,19,0,Iran/Sanction
+180,2011-04-01,13,0,Veteran Affairs
+181,2011-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+182,2011-05-01,29,1,Economy/Education/Job/Family
+183,2011-05-01,2,8,War/Conflict/Religion/Nation
+184,2011-05-01,5,1,Policy/Govenment/Foreign Affairs
+185,2011-05-01,26,0,Insurance/Health
+186,2011-05-01,19,0,Iran/Sanction
+187,2011-05-01,13,0,Veteran Affairs
+188,2011-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+189,2011-06-01,29,2,Economy/Education/Job/Family
+190,2011-06-01,2,1,War/Conflict/Religion/Nation
+191,2011-06-01,5,0,Policy/Govenment/Foreign Affairs
+192,2011-06-01,26,0,Insurance/Health
+193,2011-06-01,19,0,Iran/Sanction
+194,2011-06-01,13,0,Veteran Affairs
+195,2011-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+196,2011-07-01,29,2,Economy/Education/Job/Family
+197,2011-07-01,2,0,War/Conflict/Religion/Nation
+198,2011-07-01,5,0,Policy/Govenment/Foreign Affairs
+199,2011-07-01,26,0,Insurance/Health
+200,2011-07-01,19,0,Iran/Sanction
+201,2011-07-01,13,0,Veteran Affairs
+202,2011-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+203,2011-08-01,29,1,Economy/Education/Job/Family
+204,2011-08-01,2,0,War/Conflict/Religion/Nation
+205,2011-08-01,5,0,Policy/Govenment/Foreign Affairs
+206,2011-08-01,26,0,Insurance/Health
+207,2011-08-01,19,0,Iran/Sanction
+208,2011-08-01,13,1,Veteran Affairs
+209,2011-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+210,2011-09-01,29,2,Economy/Education/Job/Family
+211,2011-09-01,2,2,War/Conflict/Religion/Nation
+212,2011-09-01,5,0,Policy/Govenment/Foreign Affairs
+213,2011-09-01,26,0,Insurance/Health
+214,2011-09-01,19,0,Iran/Sanction
+215,2011-09-01,13,0,Veteran Affairs
+216,2011-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+217,2011-10-01,29,0,Economy/Education/Job/Family
+218,2011-10-01,2,3,War/Conflict/Religion/Nation
+219,2011-10-01,5,0,Policy/Govenment/Foreign Affairs
+220,2011-10-01,26,0,Insurance/Health
+221,2011-10-01,19,0,Iran/Sanction
+222,2011-10-01,13,0,Veteran Affairs
+223,2011-10-01,10,0,Oil/Gas/Energy/Viecle/Climate
+224,2011-11-01,29,0,Economy/Education/Job/Family
+225,2011-11-01,2,1,War/Conflict/Religion/Nation
+226,2011-11-01,5,0,Policy/Govenment/Foreign Affairs
+227,2011-11-01,26,0,Insurance/Health
+228,2011-11-01,19,0,Iran/Sanction
+229,2011-11-01,13,0,Veteran Affairs
+230,2011-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+231,2011-12-01,29,2,Economy/Education/Job/Family
+232,2011-12-01,2,1,War/Conflict/Religion/Nation
+233,2011-12-01,5,0,Policy/Govenment/Foreign Affairs
+234,2011-12-01,26,0,Insurance/Health
+235,2011-12-01,19,0,Iran/Sanction
+236,2011-12-01,13,0,Veteran Affairs
+237,2011-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+238,2012-01-01,29,1,Economy/Education/Job/Family
+239,2012-01-01,2,1,War/Conflict/Religion/Nation
+240,2012-01-01,5,0,Policy/Govenment/Foreign Affairs
+241,2012-01-01,26,0,Insurance/Health
+242,2012-01-01,19,0,Iran/Sanction
+243,2012-01-01,13,0,Veteran Affairs
+244,2012-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+245,2012-02-01,29,2,Economy/Education/Job/Family
+246,2012-02-01,2,1,War/Conflict/Religion/Nation
+247,2012-02-01,5,0,Policy/Govenment/Foreign Affairs
+248,2012-02-01,26,0,Insurance/Health
+249,2012-02-01,19,0,Iran/Sanction
+250,2012-02-01,13,0,Veteran Affairs
+251,2012-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+252,2012-03-01,29,0,Economy/Education/Job/Family
+253,2012-03-01,2,2,War/Conflict/Religion/Nation
+254,2012-03-01,5,0,Policy/Govenment/Foreign Affairs
+255,2012-03-01,26,0,Insurance/Health
+256,2012-03-01,19,0,Iran/Sanction
+257,2012-03-01,13,0,Veteran Affairs
+258,2012-03-01,10,1,Oil/Gas/Energy/Viecle/Climate
+259,2012-04-01,29,2,Economy/Education/Job/Family
+260,2012-04-01,2,1,War/Conflict/Religion/Nation
+261,2012-04-01,5,0,Policy/Govenment/Foreign Affairs
+262,2012-04-01,26,0,Insurance/Health
+263,2012-04-01,19,0,Iran/Sanction
+264,2012-04-01,13,0,Veteran Affairs
+265,2012-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+266,2012-05-01,29,1,Economy/Education/Job/Family
+267,2012-05-01,2,0,War/Conflict/Religion/Nation
+268,2012-05-01,5,0,Policy/Govenment/Foreign Affairs
+269,2012-05-01,26,0,Insurance/Health
+270,2012-05-01,19,0,Iran/Sanction
+271,2012-05-01,13,0,Veteran Affairs
+272,2012-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+273,2012-06-01,29,1,Economy/Education/Job/Family
+274,2012-06-01,2,1,War/Conflict/Religion/Nation
+275,2012-06-01,5,0,Policy/Govenment/Foreign Affairs
+276,2012-06-01,26,0,Insurance/Health
+277,2012-06-01,19,0,Iran/Sanction
+278,2012-06-01,13,0,Veteran Affairs
+279,2012-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+280,2012-07-01,29,1,Economy/Education/Job/Family
+281,2012-07-01,2,0,War/Conflict/Religion/Nation
+282,2012-07-01,5,0,Policy/Govenment/Foreign Affairs
+283,2012-07-01,26,0,Insurance/Health
+284,2012-07-01,19,0,Iran/Sanction
+285,2012-07-01,13,1,Veteran Affairs
+286,2012-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+287,2012-09-01,29,2,Economy/Education/Job/Family
+288,2012-09-01,2,3,War/Conflict/Religion/Nation
+289,2012-09-01,5,0,Policy/Govenment/Foreign Affairs
+290,2012-09-01,26,0,Insurance/Health
+291,2012-09-01,19,0,Iran/Sanction
+292,2012-09-01,13,0,Veteran Affairs
+293,2012-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+294,2012-10-01,29,5,Economy/Education/Job/Family
+295,2012-10-01,2,0,War/Conflict/Religion/Nation
+296,2012-10-01,5,0,Policy/Govenment/Foreign Affairs
+297,2012-10-01,26,0,Insurance/Health
+298,2012-10-01,19,0,Iran/Sanction
+299,2012-10-01,13,0,Veteran Affairs
+300,2012-10-01,10,0,Oil/Gas/Energy/Viecle/Climate
+301,2012-11-01,29,3,Economy/Education/Job/Family
+302,2012-11-01,2,1,War/Conflict/Religion/Nation
+303,2012-11-01,5,0,Policy/Govenment/Foreign Affairs
+304,2012-11-01,26,0,Insurance/Health
+305,2012-11-01,19,0,Iran/Sanction
+306,2012-11-01,13,0,Veteran Affairs
+307,2012-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+308,2012-12-01,29,2,Economy/Education/Job/Family
+309,2012-12-01,2,2,War/Conflict/Religion/Nation
+310,2012-12-01,5,0,Policy/Govenment/Foreign Affairs
+311,2012-12-01,26,0,Insurance/Health
+312,2012-12-01,19,0,Iran/Sanction
+313,2012-12-01,13,0,Veteran Affairs
+314,2012-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+315,2013-01-01,29,4,Economy/Education/Job/Family
+316,2013-01-01,2,1,War/Conflict/Religion/Nation
+317,2013-01-01,5,0,Policy/Govenment/Foreign Affairs
+318,2013-01-01,26,0,Insurance/Health
+319,2013-01-01,19,0,Iran/Sanction
+320,2013-01-01,13,0,Veteran Affairs
+321,2013-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+322,2013-02-01,29,3,Economy/Education/Job/Family
+323,2013-02-01,2,1,War/Conflict/Religion/Nation
+324,2013-02-01,5,0,Policy/Govenment/Foreign Affairs
+325,2013-02-01,26,0,Insurance/Health
+326,2013-02-01,19,0,Iran/Sanction
+327,2013-02-01,13,0,Veteran Affairs
+328,2013-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+329,2013-03-01,29,0,Economy/Education/Job/Family
+330,2013-03-01,2,2,War/Conflict/Religion/Nation
+331,2013-03-01,5,0,Policy/Govenment/Foreign Affairs
+332,2013-03-01,26,0,Insurance/Health
+333,2013-03-01,19,0,Iran/Sanction
+334,2013-03-01,13,0,Veteran Affairs
+335,2013-03-01,10,0,Oil/Gas/Energy/Viecle/Climate
+336,2013-04-01,29,7,Economy/Education/Job/Family
+337,2013-04-01,2,5,War/Conflict/Religion/Nation
+338,2013-04-01,5,1,Policy/Govenment/Foreign Affairs
+339,2013-04-01,26,0,Insurance/Health
+340,2013-04-01,19,0,Iran/Sanction
+341,2013-04-01,13,0,Veteran Affairs
+342,2013-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+343,2013-05-01,29,3,Economy/Education/Job/Family
+344,2013-05-01,2,2,War/Conflict/Religion/Nation
+345,2013-05-01,5,0,Policy/Govenment/Foreign Affairs
+346,2013-05-01,26,0,Insurance/Health
+347,2013-05-01,19,0,Iran/Sanction
+348,2013-05-01,13,0,Veteran Affairs
+349,2013-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+350,2013-06-01,29,2,Economy/Education/Job/Family
+351,2013-06-01,2,3,War/Conflict/Religion/Nation
+352,2013-06-01,5,0,Policy/Govenment/Foreign Affairs
+353,2013-06-01,26,0,Insurance/Health
+354,2013-06-01,19,0,Iran/Sanction
+355,2013-06-01,13,0,Veteran Affairs
+356,2013-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+357,2013-07-01,29,2,Economy/Education/Job/Family
+358,2013-07-01,2,1,War/Conflict/Religion/Nation
+359,2013-07-01,5,0,Policy/Govenment/Foreign Affairs
+360,2013-07-01,26,0,Insurance/Health
+361,2013-07-01,19,0,Iran/Sanction
+362,2013-07-01,13,0,Veteran Affairs
+363,2013-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+364,2013-08-01,29,2,Economy/Education/Job/Family
+365,2013-08-01,2,1,War/Conflict/Religion/Nation
+366,2013-08-01,5,0,Policy/Govenment/Foreign Affairs
+367,2013-08-01,26,0,Insurance/Health
+368,2013-08-01,19,0,Iran/Sanction
+369,2013-08-01,13,0,Veteran Affairs
+370,2013-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+371,2013-09-01,29,1,Economy/Education/Job/Family
+372,2013-09-01,2,3,War/Conflict/Religion/Nation
+373,2013-09-01,5,0,Policy/Govenment/Foreign Affairs
+374,2013-09-01,26,0,Insurance/Health
+375,2013-09-01,19,0,Iran/Sanction
+376,2013-09-01,13,0,Veteran Affairs
+377,2013-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+378,2013-10-01,29,2,Economy/Education/Job/Family
+379,2013-10-01,2,0,War/Conflict/Religion/Nation
+380,2013-10-01,5,0,Policy/Govenment/Foreign Affairs
+381,2013-10-01,26,0,Insurance/Health
+382,2013-10-01,19,0,Iran/Sanction
+383,2013-10-01,13,0,Veteran Affairs
+384,2013-10-01,10,0,Oil/Gas/Energy/Viecle/Climate
+385,2013-11-01,29,1,Economy/Education/Job/Family
+386,2013-11-01,2,0,War/Conflict/Religion/Nation
+387,2013-11-01,5,0,Policy/Govenment/Foreign Affairs
+388,2013-11-01,26,0,Insurance/Health
+389,2013-11-01,19,1,Iran/Sanction
+390,2013-11-01,13,1,Veteran Affairs
+391,2013-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+392,2013-12-01,29,1,Economy/Education/Job/Family
+393,2013-12-01,2,2,War/Conflict/Religion/Nation
+394,2013-12-01,5,0,Policy/Govenment/Foreign Affairs
+395,2013-12-01,26,0,Insurance/Health
+396,2013-12-01,19,0,Iran/Sanction
+397,2013-12-01,13,0,Veteran Affairs
+398,2013-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+399,2014-01-01,29,1,Economy/Education/Job/Family
+400,2014-01-01,2,0,War/Conflict/Religion/Nation
+401,2014-01-01,5,1,Policy/Govenment/Foreign Affairs
+402,2014-01-01,26,0,Insurance/Health
+403,2014-01-01,19,0,Iran/Sanction
+404,2014-01-01,13,0,Veteran Affairs
+405,2014-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+406,2014-02-01,29,0,Economy/Education/Job/Family
+407,2014-02-01,2,1,War/Conflict/Religion/Nation
+408,2014-02-01,5,0,Policy/Govenment/Foreign Affairs
+409,2014-02-01,26,0,Insurance/Health
+410,2014-02-01,19,0,Iran/Sanction
+411,2014-02-01,13,0,Veteran Affairs
+412,2014-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+413,2014-03-01,29,0,Economy/Education/Job/Family
+414,2014-03-01,2,1,War/Conflict/Religion/Nation
+415,2014-03-01,5,0,Policy/Govenment/Foreign Affairs
+416,2014-03-01,26,0,Insurance/Health
+417,2014-03-01,19,0,Iran/Sanction
+418,2014-03-01,13,0,Veteran Affairs
+419,2014-03-01,10,0,Oil/Gas/Energy/Viecle/Climate
+420,2014-04-01,29,2,Economy/Education/Job/Family
+421,2014-04-01,2,1,War/Conflict/Religion/Nation
+422,2014-04-01,5,3,Policy/Govenment/Foreign Affairs
+423,2014-04-01,26,0,Insurance/Health
+424,2014-04-01,19,0,Iran/Sanction
+425,2014-04-01,13,0,Veteran Affairs
+426,2014-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+427,2014-05-01,29,1,Economy/Education/Job/Family
+428,2014-05-01,2,2,War/Conflict/Religion/Nation
+429,2014-05-01,5,0,Policy/Govenment/Foreign Affairs
+430,2014-05-01,26,0,Insurance/Health
+431,2014-05-01,19,0,Iran/Sanction
+432,2014-05-01,13,2,Veteran Affairs
+433,2014-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+434,2014-06-01,29,1,Economy/Education/Job/Family
+435,2014-06-01,2,2,War/Conflict/Religion/Nation
+436,2014-06-01,5,0,Policy/Govenment/Foreign Affairs
+437,2014-06-01,26,0,Insurance/Health
+438,2014-06-01,19,0,Iran/Sanction
+439,2014-06-01,13,0,Veteran Affairs
+440,2014-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+441,2014-07-01,29,0,Economy/Education/Job/Family
+442,2014-07-01,2,1,War/Conflict/Religion/Nation
+443,2014-07-01,5,1,Policy/Govenment/Foreign Affairs
+444,2014-07-01,26,0,Insurance/Health
+445,2014-07-01,19,0,Iran/Sanction
+446,2014-07-01,13,0,Veteran Affairs
+447,2014-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+448,2014-08-01,29,0,Economy/Education/Job/Family
+449,2014-08-01,2,2,War/Conflict/Religion/Nation
+450,2014-08-01,5,3,Policy/Govenment/Foreign Affairs
+451,2014-08-01,26,0,Insurance/Health
+452,2014-08-01,19,0,Iran/Sanction
+453,2014-08-01,13,0,Veteran Affairs
+454,2014-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+455,2014-09-01,29,0,Economy/Education/Job/Family
+456,2014-09-01,2,4,War/Conflict/Religion/Nation
+457,2014-09-01,5,3,Policy/Govenment/Foreign Affairs
+458,2014-09-01,26,0,Insurance/Health
+459,2014-09-01,19,0,Iran/Sanction
+460,2014-09-01,13,0,Veteran Affairs
+461,2014-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+462,2014-10-01,29,2,Economy/Education/Job/Family
+463,2014-10-01,2,0,War/Conflict/Religion/Nation
+464,2014-10-01,5,0,Policy/Govenment/Foreign Affairs
+465,2014-10-01,26,0,Insurance/Health
+466,2014-10-01,19,0,Iran/Sanction
+467,2014-10-01,13,0,Veteran Affairs
+468,2014-10-01,10,0,Oil/Gas/Energy/Viecle/Climate
+469,2014-11-01,29,3,Economy/Education/Job/Family
+470,2014-11-01,2,0,War/Conflict/Religion/Nation
+471,2014-11-01,5,3,Policy/Govenment/Foreign Affairs
+472,2014-11-01,26,0,Insurance/Health
+473,2014-11-01,19,0,Iran/Sanction
+474,2014-11-01,13,0,Veteran Affairs
+475,2014-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+476,2014-12-01,29,2,Economy/Education/Job/Family
+477,2014-12-01,2,0,War/Conflict/Religion/Nation
+478,2014-12-01,5,1,Policy/Govenment/Foreign Affairs
+479,2014-12-01,26,0,Insurance/Health
+480,2014-12-01,19,0,Iran/Sanction
+481,2014-12-01,13,0,Veteran Affairs
+482,2014-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+483,2015-01-01,29,4,Economy/Education/Job/Family
+484,2015-01-01,2,1,War/Conflict/Religion/Nation
+485,2015-01-01,5,0,Policy/Govenment/Foreign Affairs
+486,2015-01-01,26,0,Insurance/Health
+487,2015-01-01,19,0,Iran/Sanction
+488,2015-01-01,13,0,Veteran Affairs
+489,2015-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+490,2015-02-01,29,1,Economy/Education/Job/Family
+491,2015-02-01,2,3,War/Conflict/Religion/Nation
+492,2015-02-01,5,0,Policy/Govenment/Foreign Affairs
+493,2015-02-01,26,0,Insurance/Health
+494,2015-02-01,19,0,Iran/Sanction
+495,2015-02-01,13,0,Veteran Affairs
+496,2015-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+497,2015-03-01,29,2,Economy/Education/Job/Family
+498,2015-03-01,2,1,War/Conflict/Religion/Nation
+499,2015-03-01,5,1,Policy/Govenment/Foreign Affairs
+500,2015-03-01,26,0,Insurance/Health
+501,2015-03-01,19,0,Iran/Sanction
+502,2015-03-01,13,0,Veteran Affairs
+503,2015-03-01,10,0,Oil/Gas/Energy/Viecle/Climate
+504,2015-04-01,29,1,Economy/Education/Job/Family
+505,2015-04-01,2,2,War/Conflict/Religion/Nation
+506,2015-04-01,5,3,Policy/Govenment/Foreign Affairs
+507,2015-04-01,26,0,Insurance/Health
+508,2015-04-01,19,1,Iran/Sanction
+509,2015-04-01,13,0,Veteran Affairs
+510,2015-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+511,2015-05-01,29,1,Economy/Education/Job/Family
+512,2015-05-01,2,1,War/Conflict/Religion/Nation
+513,2015-05-01,5,0,Policy/Govenment/Foreign Affairs
+514,2015-05-01,26,0,Insurance/Health
+515,2015-05-01,19,0,Iran/Sanction
+516,2015-05-01,13,0,Veteran Affairs
+517,2015-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+518,2015-06-01,29,4,Economy/Education/Job/Family
+519,2015-06-01,2,3,War/Conflict/Religion/Nation
+520,2015-06-01,5,2,Policy/Govenment/Foreign Affairs
+521,2015-06-01,26,0,Insurance/Health
+522,2015-06-01,19,0,Iran/Sanction
+523,2015-06-01,13,0,Veteran Affairs
+524,2015-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+525,2015-07-01,29,2,Economy/Education/Job/Family
+526,2015-07-01,2,2,War/Conflict/Religion/Nation
+527,2015-07-01,5,3,Policy/Govenment/Foreign Affairs
+528,2015-07-01,26,0,Insurance/Health
+529,2015-07-01,19,1,Iran/Sanction
+530,2015-07-01,13,0,Veteran Affairs
+531,2015-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+532,2015-08-01,29,2,Economy/Education/Job/Family
+533,2015-08-01,2,0,War/Conflict/Religion/Nation
+534,2015-08-01,5,0,Policy/Govenment/Foreign Affairs
+535,2015-08-01,26,0,Insurance/Health
+536,2015-08-01,19,1,Iran/Sanction
+537,2015-08-01,13,0,Veteran Affairs
+538,2015-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+539,2015-09-01,29,1,Economy/Education/Job/Family
+540,2015-09-01,2,3,War/Conflict/Religion/Nation
+541,2015-09-01,5,2,Policy/Govenment/Foreign Affairs
+542,2015-09-01,26,0,Insurance/Health
+543,2015-09-01,19,0,Iran/Sanction
+544,2015-09-01,13,0,Veteran Affairs
+545,2015-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+546,2015-10-01,29,3,Economy/Education/Job/Family
+547,2015-10-01,2,0,War/Conflict/Religion/Nation
+548,2015-10-01,5,1,Policy/Govenment/Foreign Affairs
+549,2015-10-01,26,0,Insurance/Health
+550,2015-10-01,19,0,Iran/Sanction
+551,2015-10-01,13,0,Veteran Affairs
+552,2015-10-01,10,0,Oil/Gas/Energy/Viecle/Climate
+553,2015-11-01,29,0,Economy/Education/Job/Family
+554,2015-11-01,2,2,War/Conflict/Religion/Nation
+555,2015-11-01,5,5,Policy/Govenment/Foreign Affairs
+556,2015-11-01,26,0,Insurance/Health
+557,2015-11-01,19,0,Iran/Sanction
+558,2015-11-01,13,0,Veteran Affairs
+559,2015-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+560,2015-12-01,29,1,Economy/Education/Job/Family
+561,2015-12-01,2,5,War/Conflict/Religion/Nation
+562,2015-12-01,5,3,Policy/Govenment/Foreign Affairs
+563,2015-12-01,26,0,Insurance/Health
+564,2015-12-01,19,0,Iran/Sanction
+565,2015-12-01,13,0,Veteran Affairs
+566,2015-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+567,2016-01-01,29,4,Economy/Education/Job/Family
+568,2016-01-01,2,1,War/Conflict/Religion/Nation
+569,2016-01-01,5,0,Policy/Govenment/Foreign Affairs
+570,2016-01-01,26,0,Insurance/Health
+571,2016-01-01,19,1,Iran/Sanction
+572,2016-01-01,13,0,Veteran Affairs
+573,2016-01-01,10,0,Oil/Gas/Energy/Viecle/Climate
+574,2016-02-01,29,4,Economy/Education/Job/Family
+575,2016-02-01,2,2,War/Conflict/Religion/Nation
+576,2016-02-01,5,4,Policy/Govenment/Foreign Affairs
+577,2016-02-01,26,0,Insurance/Health
+578,2016-02-01,19,0,Iran/Sanction
+579,2016-02-01,13,0,Veteran Affairs
+580,2016-02-01,10,0,Oil/Gas/Energy/Viecle/Climate
+581,2016-03-01,29,5,Economy/Education/Job/Family
+582,2016-03-01,2,1,War/Conflict/Religion/Nation
+583,2016-03-01,5,1,Policy/Govenment/Foreign Affairs
+584,2016-03-01,26,0,Insurance/Health
+585,2016-03-01,19,0,Iran/Sanction
+586,2016-03-01,13,0,Veteran Affairs
+587,2016-03-01,10,0,Oil/Gas/Energy/Viecle/Climate
+588,2016-04-01,29,3,Economy/Education/Job/Family
+589,2016-04-01,2,1,War/Conflict/Religion/Nation
+590,2016-04-01,5,2,Policy/Govenment/Foreign Affairs
+591,2016-04-01,26,0,Insurance/Health
+592,2016-04-01,19,0,Iran/Sanction
+593,2016-04-01,13,0,Veteran Affairs
+594,2016-04-01,10,0,Oil/Gas/Energy/Viecle/Climate
+595,2016-05-01,29,5,Economy/Education/Job/Family
+596,2016-05-01,2,2,War/Conflict/Religion/Nation
+597,2016-05-01,5,2,Policy/Govenment/Foreign Affairs
+598,2016-05-01,26,0,Insurance/Health
+599,2016-05-01,19,0,Iran/Sanction
+600,2016-05-01,13,0,Veteran Affairs
+601,2016-05-01,10,0,Oil/Gas/Energy/Viecle/Climate
+602,2016-06-01,29,3,Economy/Education/Job/Family
+603,2016-06-01,2,5,War/Conflict/Religion/Nation
+604,2016-06-01,5,0,Policy/Govenment/Foreign Affairs
+605,2016-06-01,26,0,Insurance/Health
+606,2016-06-01,19,0,Iran/Sanction
+607,2016-06-01,13,0,Veteran Affairs
+608,2016-06-01,10,0,Oil/Gas/Energy/Viecle/Climate
+609,2016-07-01,29,1,Economy/Education/Job/Family
+610,2016-07-01,2,1,War/Conflict/Religion/Nation
+611,2016-07-01,5,1,Policy/Govenment/Foreign Affairs
+612,2016-07-01,26,0,Insurance/Health
+613,2016-07-01,19,0,Iran/Sanction
+614,2016-07-01,13,0,Veteran Affairs
+615,2016-07-01,10,0,Oil/Gas/Energy/Viecle/Climate
+616,2016-08-01,29,1,Economy/Education/Job/Family
+617,2016-08-01,2,0,War/Conflict/Religion/Nation
+618,2016-08-01,5,1,Policy/Govenment/Foreign Affairs
+619,2016-08-01,26,0,Insurance/Health
+620,2016-08-01,19,0,Iran/Sanction
+621,2016-08-01,13,0,Veteran Affairs
+622,2016-08-01,10,0,Oil/Gas/Energy/Viecle/Climate
+623,2016-09-01,29,0,Economy/Education/Job/Family
+624,2016-09-01,2,4,War/Conflict/Religion/Nation
+625,2016-09-01,5,3,Policy/Govenment/Foreign Affairs
+626,2016-09-01,26,0,Insurance/Health
+627,2016-09-01,19,0,Iran/Sanction
+628,2016-09-01,13,0,Veteran Affairs
+629,2016-09-01,10,0,Oil/Gas/Energy/Viecle/Climate
+630,2016-11-01,29,2,Economy/Education/Job/Family
+631,2016-11-01,2,1,War/Conflict/Religion/Nation
+632,2016-11-01,5,4,Policy/Govenment/Foreign Affairs
+633,2016-11-01,26,0,Insurance/Health
+634,2016-11-01,19,0,Iran/Sanction
+635,2016-11-01,13,0,Veteran Affairs
+636,2016-11-01,10,0,Oil/Gas/Energy/Viecle/Climate
+637,2016-12-01,29,0,Economy/Education/Job/Family
+638,2016-12-01,2,3,War/Conflict/Religion/Nation
+639,2016-12-01,5,1,Policy/Govenment/Foreign Affairs
+640,2016-12-01,26,0,Insurance/Health
+641,2016-12-01,19,0,Iran/Sanction
+642,2016-12-01,13,0,Veteran Affairs
+643,2016-12-01,10,0,Oil/Gas/Energy/Viecle/Climate
+644,2017-01-01,29,5,Economy/Education/Job/Family
+645,2017-01-01,2,0,War/Conflict/Religion/Nation
+646,2017-01-01,5,1,Policy/Govenment/Foreign Affairs
+647,2017-01-01,26,0,Insurance/Health
+648,2017-01-01,19,0,Iran/Sanction
+649,2017-01-01,13,1,Veteran Affairs
+650,2017-01-01,10,0,Oil/Gas/Energy/Viecle/Climate

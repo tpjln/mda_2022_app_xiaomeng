@@ -23,7 +23,6 @@ pandas==1.4.3
 pip==22.1.2
 plotly==5.9.0
 pyparsing==3.0.4
-python==3.9.12
 python-dateutil==2.8.2
 python_abi==3.9
 pytz==2022.1

@@ -33,7 +33,6 @@ tenacity==8.0.1
 threadpoolctl==2.2.0
 tzdata==2022.2
 vc==2018.7.10
-vs2015_runtime==14.27.29016
 werkzeug==2.0.3
 wheel==0.37.1
 wincertstore==0.2

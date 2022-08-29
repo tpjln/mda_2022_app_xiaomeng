@@ -29,7 +29,6 @@ scikit-learn==1.1.1
 scipy==1.7.3
 setuptools==61.2.0
 six==1.16.0
-sqlite==3.38.5
 tenacity==8.0.1
 threadpoolctl==2.2.0
 tzdata==2022a
